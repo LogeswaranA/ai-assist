@@ -1,0 +1,4 @@
+.env
+__pycache__
+env
+all-MiniLM-L6-v2/
