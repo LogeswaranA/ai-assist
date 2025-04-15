@@ -1,11 +1,2 @@
-langchain==0.0.350
-langgraph==0.0.24
-openai==1.68.2
-fastapi==0.103.0
-uvicorn==0.23.2
-streamlit==1.29.0
-requests==2.31.0
-python-dotenv==1.0.1
-sentence-transformers 
-faiss-cpu 
-langchain
+streamlit
+requests
