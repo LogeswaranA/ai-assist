@@ -34,7 +34,7 @@ uvicorn app:app --host 0.0.0.0 --port 8000
 ## Execute Frontend
 
 ```
-streamlit run run.py    
+streamlit run app.py    
 ```
 
 
@@ -42,5 +42,5 @@ streamlit run run.py
 
 ```
 docker compose build
-docker compuse up
+docker compose up
 ```
